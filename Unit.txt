@@ -1,0 +1,4 @@
+Product Name:
+Product Unit:
+Product quantity:
+Product price:
